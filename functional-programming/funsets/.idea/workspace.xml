@@ -1,34 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0b688b9d-cf8c-4d5c-b2e5-c09c638cf99c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../recfun/project/target/config-classes/$1cfb4b9075d86ec778f4$$anonfun$$sbtdef$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../recfun/project/target/config-classes/$1cfb4b9075d86ec778f4$.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../recfun/project/target/config-classes/$1cfb4b9075d86ec778f4.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../recfun/target/scala-2.10/cache/assignment/global/update/inputs" afterPath="$PROJECT_DIR$/../recfun/target/scala-2.10/cache/assignment/global/update/inputs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../recfun/target/scala-2.10/cache/assignment/global/update/output" afterPath="$PROJECT_DIR$/../recfun/target/scala-2.10/cache/assignment/global/update/output" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../recfun/project/project/target/streams/compile/compile/$global/out" afterPath="$PROJECT_DIR$/../recfun/project/project/target/streams/compile/compile/$global/out" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../recfun/project/project/target/streams/compile/copy-resources/$global/out" afterPath="$PROJECT_DIR$/../recfun/project/project/target/streams/compile/copy-resources/$global/out" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../recfun/project/target/streams/compile/compile/$global/out" afterPath="$PROJECT_DIR$/../recfun/project/target/streams/compile/compile/$global/out" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../recfun/project/target/streams/compile/copy-resources/$global/out" afterPath="$PROJECT_DIR$/../recfun/project/target/streams/compile/copy-resources/$global/out" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../recfun/target/streams/$global/ivy-configuration/$global/out" afterPath="$PROJECT_DIR$/../recfun/target/streams/$global/ivy-configuration/$global/out" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../recfun/target/streams/$global/update/$global/out" afterPath="$PROJECT_DIR$/../recfun/target/streams/$global/update/$global/out" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../recfun/target/resolution-cache/reports/progfun-recfun-progfun-recfun_2.10-compile-internal.xml" afterPath="$PROJECT_DIR$/../recfun/target/resolution-cache/reports/progfun-recfun-progfun-recfun_2.10-compile-internal.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../recfun/target/resolution-cache/reports/progfun-recfun-progfun-recfun_2.10-compile.xml" afterPath="$PROJECT_DIR$/../recfun/target/resolution-cache/reports/progfun-recfun-progfun-recfun_2.10-compile.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../recfun/target/resolution-cache/reports/progfun-recfun-progfun-recfun_2.10-docs.xml" afterPath="$PROJECT_DIR$/../recfun/target/resolution-cache/reports/progfun-recfun-progfun-recfun_2.10-docs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../recfun/target/resolution-cache/reports/progfun-recfun-progfun-recfun_2.10-optional.xml" afterPath="$PROJECT_DIR$/../recfun/target/resolution-cache/reports/progfun-recfun-progfun-recfun_2.10-optional.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../recfun/target/resolution-cache/reports/progfun-recfun-progfun-recfun_2.10-plugin.xml" afterPath="$PROJECT_DIR$/../recfun/target/resolution-cache/reports/progfun-recfun-progfun-recfun_2.10-plugin.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../recfun/target/resolution-cache/reports/progfun-recfun-progfun-recfun_2.10-pom.xml" afterPath="$PROJECT_DIR$/../recfun/target/resolution-cache/reports/progfun-recfun-progfun-recfun_2.10-pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../recfun/target/resolution-cache/reports/progfun-recfun-progfun-recfun_2.10-provided.xml" afterPath="$PROJECT_DIR$/../recfun/target/resolution-cache/reports/progfun-recfun-progfun-recfun_2.10-provided.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../recfun/target/resolution-cache/reports/progfun-recfun-progfun-recfun_2.10-runtime-internal.xml" afterPath="$PROJECT_DIR$/../recfun/target/resolution-cache/reports/progfun-recfun-progfun-recfun_2.10-runtime-internal.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../recfun/target/resolution-cache/reports/progfun-recfun-progfun-recfun_2.10-runtime.xml" afterPath="$PROJECT_DIR$/../recfun/target/resolution-cache/reports/progfun-recfun-progfun-recfun_2.10-runtime.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../recfun/target/resolution-cache/reports/progfun-recfun-progfun-recfun_2.10-sources.xml" afterPath="$PROJECT_DIR$/../recfun/target/resolution-cache/reports/progfun-recfun-progfun-recfun_2.10-sources.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../recfun/target/resolution-cache/reports/progfun-recfun-progfun-recfun_2.10-test-internal.xml" afterPath="$PROJECT_DIR$/../recfun/target/resolution-cache/reports/progfun-recfun-progfun-recfun_2.10-test-internal.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../recfun/target/resolution-cache/reports/progfun-recfun-progfun-recfun_2.10-test.xml" afterPath="$PROJECT_DIR$/../recfun/target/resolution-cache/reports/progfun-recfun-progfun-recfun_2.10-test.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../recfun/target/resolution-cache/progfun-recfun/progfun-recfun_2.10/1.0.0/resolved.xml.properties" afterPath="$PROJECT_DIR$/../recfun/target/resolution-cache/progfun-recfun/progfun-recfun_2.10/1.0.0/resolved.xml.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../recfun/target/resolution-cache/progfun-recfun/progfun-recfun_2.10/1.0.0/resolved.xml.xml" afterPath="$PROJECT_DIR$/../recfun/target/resolution-cache/progfun-recfun/progfun-recfun_2.10/1.0.0/resolved.xml.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../recfun/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../recfun/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="0b688b9d-cf8c-4d5c-b2e5-c09c638cf99c" name="Default" comment="" />
     <ignored path="progfun-funsets.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -103,7 +76,7 @@
       <file leaf-file-name="FunSets.scala" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/scala/funsets/FunSets.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5452055" vertical-offset="697" max-vertical-offset="1620">
+            <state vertical-scroll-proportion="0.5467033" vertical-offset="697" max-vertical-offset="1620">
               <caret line="73" column="21" selection-start-line="73" selection-start-column="21" selection-end-line="73" selection-end-column="21" />
               <folding />
             </state>
@@ -547,7 +520,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/funsets/FunSets.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5452055" vertical-offset="697" max-vertical-offset="1620">
+        <state vertical-scroll-proportion="0.5467033" vertical-offset="697" max-vertical-offset="1620">
           <caret line="73" column="21" selection-start-line="73" selection-start-column="21" selection-end-line="73" selection-end-column="21" />
           <folding />
         </state>
